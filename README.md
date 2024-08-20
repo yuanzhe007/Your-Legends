@@ -1,6 +1,6 @@
 ## Language | 语言
 
- - [English-英语](#Your Legends)
+ - [English-英语](#Your-Legends)
  - [Chinese-中文](#你的传奇)
 
 ---
