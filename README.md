@@ -4,7 +4,7 @@
  - [Chinese-中文](#chinese)
 
 ---
-###english
+### english
 
 <h1>Your Legends</h1>
 <h3>Embark on an Unforgettable Journey with Your Legend</h3>
@@ -28,7 +28,7 @@ Your Legend is not just a game; it’s a saga waiting to be written. Are you rea
  
 ---
 
-###chinese
+### chinese
 
 <h1>你的传奇</h1>
 <h3>踏上难忘的传奇之旅</h3>
