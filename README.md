@@ -22,10 +22,6 @@ Harness cutting-edge technology, automate processes, and build intricate systems
 Your Legend is not just a game; it’s a saga waiting to be written. Are you ready to forge your own legend?
 
  
-
-   <p><em>This modpack was originally made for my friend, N1ghtCore.</em></p>
-
- 
 ---
 
 ### 中文
@@ -44,6 +40,4 @@ Your Legend is not just a game; it’s a saga waiting to be written. Are you rea
 利用尖端科技，自动化流程，构建复杂的系统. 从简单的装置到复杂的网络，科技奇迹将让你保持兴趣.
 
 《你的传奇》不仅仅是一款游戏，它是一部等待你来书写的传奇. 你准备好创造自己的传奇了吗？
-
-      <p><em>这个模组包最初是为我的朋友N1ghtCore制作的.</em></p>
 
